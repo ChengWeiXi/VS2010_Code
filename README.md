@@ -1,0 +1,2 @@
+# VS2010_Code
+这是用来测试ListCtrl的Demo软件，它是基于MFC对话框应用程序，使用VS2010编写
